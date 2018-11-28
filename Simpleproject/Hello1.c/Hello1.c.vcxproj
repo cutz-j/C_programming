@@ -116,6 +116,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Hello.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="Operator.c" />
+    <ClCompile Include="problem2.c" />
+    <ClCompile Include="scanf.c" />
+    <ClCompile Include="SimpleAddon.c" />
+    <ClCompile Include="VarDeclAndInit.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdio.h" />

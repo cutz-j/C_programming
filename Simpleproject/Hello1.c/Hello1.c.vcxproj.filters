@@ -18,6 +18,24 @@
     <ClCompile Include="Hello.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="SimpleAddon.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="VarDeclAndInit.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Operator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="problem2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdio.h">

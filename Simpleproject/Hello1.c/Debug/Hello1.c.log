@@ -1,5 +1,6 @@
-﻿  Hello.c
-d:\github\c_programming\simpleproject\hello1.c\hello.c(8): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
-  d:\github\c_programming\simpleproject\hello1.c\hello.c(8): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
-d:\github\c_programming\simpleproject\hello1.c\hello.c(11): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+﻿  main.c
+d:\github\c_programming\simpleproject\hello1.c\main.c(9): warning C4013: 'problem5'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  problem2.c
+d:\github\c_programming\simpleproject\hello1.c\problem2.c(8): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
   Hello1.c.vcxproj -> D:\Github\C_programming\Simpleproject\Debug\Hello1.c.exe
