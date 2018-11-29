@@ -6,6 +6,7 @@ int main(void)
 	//problem2();
 	//problem3();
 	//problem4();
-	problem5();
-
+	float a = 0.2, b = 0.0000001;
+	printf("%f", a - b);
+	return 0;
 }

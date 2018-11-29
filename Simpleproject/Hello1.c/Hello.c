@@ -13,6 +13,5 @@ int sub1(void)
 	printf("제가 사는 곳의 번지수는 %d-%d입니다.\n", 123, 456);
 	printf("%d x %d = %d\n", 4, 5, 4 * 5);
 	printf("%d x %d = %d\n", 7, 9, 7 * 9);
-	system("pause");
 	return 0;
 }
