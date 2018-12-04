@@ -2,7 +2,12 @@
 
 int main(void)
 {
-	q7_2_2();
+	//q7_2_2();
+	//q7_3_2();
+	//q7_3_3();
+	//q7_4_1();
+	//q7_4_2();
+	gugudan();
 	return 0;
 }
 
@@ -96,6 +101,72 @@ int q7_2_2(void)
 		printf("*\n");
 		i++;
 		j = 0;
+	}
+	return 0;
+}
+
+int q7_3_2(void)
+{
+	int num = 0, total = 0;
+	do
+	{
+		total += num;
+		num += 2;
+	} while (num <= 100);
+	printf("%d", total);
+	return 0;
+}
+
+int q7_3_3(void)
+{
+	int dan = 1, num = 2;
+	do
+	{
+		do
+		{
+			printf("%d x %d = %d\n", num, dan, num * dan);
+			dan++;
+		} while (dan <= 9);
+		num++;
+		dan = 1;
+	} while (num <= 9);
+	return 0;
+}
+
+int q7_4_1(void)
+{
+	int num1, num2, total = 0;
+	scanf_s("%d", &num1);
+	scanf_s("%d", &num2);
+	
+	for (num1; num1 <= num2; num1++)
+	{
+		total += num1;
+	}
+	printf("%d", total);
+	return 0;
+}
+
+int q7_4_2(void)
+{
+	int num, total = 1;
+	scanf_s("%d", &num);
+
+	for (num; num > 0; num--)
+	{
+		total *= num;
+	}
+	printf("%d", total);
+	return 0;
+}
+
+int gugudan(void)
+{
+	int dan, num;
+	for (num = 2; num < 10; num++)
+	{
+		for (dan = 1; dan < 10; dan++)
+			printf("%d x %d = %d\n", num, dan, num * dan);
 	}
 	return 0;
 }
