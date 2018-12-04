@@ -1,5 +1,4 @@
-﻿  ch6.c
-d:\github\c_programming\c_prac\c_prac\ch6.c(10): warning C4013: 'gugudan'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-d:\github\c_programming\c_prac\c_prac\ch6.c(28): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
-  d:\github\c_programming\c_prac\c_prac\ch6.c(28): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+﻿  ch8.c
+d:\github\c_programming\c_prac\c_prac\ch8.c(9): warning C4013: 'q8_2_2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\github\c_programming\c_prac\c_prac\ch8.c(15): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
   C_prac.vcxproj -> D:\Github\C_programming\C_prac\Debug\C_prac.exe
