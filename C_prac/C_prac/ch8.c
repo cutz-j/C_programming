@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int sub12(void)
 {
 	//p8_1_1();
 	//p8_1_2();

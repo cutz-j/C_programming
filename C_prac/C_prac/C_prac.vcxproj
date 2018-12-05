@@ -154,8 +154,10 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ch10.c" />
     <ClCompile Include="ch6.c" />
     <ClCompile Include="ch8.c" />
+    <ClCompile Include="ch9.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
