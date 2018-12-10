@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int sub10(void)
 {
 	//q1();
 	//q2();
