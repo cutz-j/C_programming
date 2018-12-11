@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int subch12(void)
 {
 	//int num = 7;
 
@@ -12,7 +12,7 @@ int main(void)
 	num = 7;
 	printf("%d", *pnum);*/
 	//q12_1_1();
-	q12_1_2();
+	//q12_1_2();
 }
 
 int q12_1_1(void)
