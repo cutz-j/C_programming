@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int sub13_c(void)
 {
 	//q13_1_1();
 	//q13_1_2();
