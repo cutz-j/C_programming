@@ -155,6 +155,7 @@
     <ClCompile Include="ch12.c" />
     <ClCompile Include="ch13.c" />
     <ClCompile Include="ch14.c" />
+    <ClCompile Include="ch15.c" />
     <ClCompile Include="ch6.c" />
     <ClCompile Include="ch8.c" />
     <ClCompile Include="ch9.c" />

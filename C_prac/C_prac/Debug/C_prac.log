@@ -1,15 +1,6 @@
-﻿  ch14.c
-c:\github\c_programming\c_prac\c_prac\ch14.c(8): warning C4013: 'q14_2_2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-c:\github\c_programming\c_prac\c_prac\ch14.c(16): warning C4013: 'squarebyvalue'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-c:\github\c_programming\c_prac\c_prac\ch14.c(17): warning C4013: 'squarebyreference'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-c:\github\c_programming\c_prac\c_prac\ch14.c(35): warning C4013: 'swap3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-c:\github\c_programming\c_prac\c_prac\ch14.c(54): warning C4013: 'showAllData'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-c:\github\c_programming\c_prac\c_prac\ch14.c(53): warning C4047: '초기화 중': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
-c:\github\c_programming\c_prac\c_prac\ch14.c(66): warning C4090: '초기화 중': 'const' 한정자가 서로 다릅니다.
-c:\github\c_programming\c_prac\c_prac\ch14.c(40): warning C4716: 'q14_1_2': 값을 반환해야 합니다.
-c:\github\c_programming\c_prac\c_prac\ch14.c(49): warning C4716: 'swap3': 값을 반환해야 합니다.
-c:\github\c_programming\c_prac\c_prac\ch14.c(55): warning C4716: 'q14_2_1': 값을 반환해야 합니다.
-c:\github\c_programming\c_prac\c_prac\ch14.c(62): warning C4716: 'showAllData': 값을 반환해야 합니다.
-c:\github\c_programming\c_prac\c_prac\ch14.c(69): warning C4716: 'showData': 값을 반환해야 합니다.
-c:\github\c_programming\c_prac\c_prac\ch14.c(18): warning C4716: 'q14_1_1': 값을 반환해야 합니다.
+﻿  ch15.c
+c:\github\c_programming\c_prac\c_prac\ch15.c(10): warning C4013: 'q15_5'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\github\c_programming\c_prac\c_prac\ch15.c(26): warning C4013: 'odd_search'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\github\c_programming\c_prac\c_prac\ch15.c(27): warning C4013: 'even_search'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\github\c_programming\c_prac\c_prac\ch15.c(123): warning C4013: 'bubble_sort'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   C_prac.vcxproj -> C:\Github\C_programming\C_prac\Debug\C_prac.exe
