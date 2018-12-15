@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int main(void)
+int sub15_c(void)
 {
 	////q15_1();
 	//q15_2();
