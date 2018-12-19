@@ -7,4 +7,6 @@ c:\github\c_programming\c_prac\c_prac\ch18.c(17): warning C4477: 'printf' : 서�
 c:\github\c_programming\c_prac\c_prac\ch18.c(19): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
 c:\github\c_programming\c_prac\c_prac\ch18.c(19): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int (*)[3]'입니다.
 c:\github\c_programming\c_prac\c_prac\ch18.c(9): warning C4047: '초기화 중': 'int *'의 간접 참조 수준이 'int (*)[3]'과(와) 다릅니다.
+  ch19.c
+  코드를 생성하고 있습니다...
   C_prac.vcxproj -> C:\Github\C_programming\C_prac\Debug\C_prac.exe

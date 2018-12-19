@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int sub_18_c(void)
 {
 	int num = 3;
 	int *ptr = &num;
