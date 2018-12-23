@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-int main(void)
+int sub_20_c(void)
 {
 	//q20_1_1();
 	//q20_1_2();
