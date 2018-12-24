@@ -1,3 +1,4 @@
-﻿  ch22.c
-c:\github\c_programming\c_prac\c_prac\ch22.c(6): warning C4013: 'q22_2_1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+﻿  ch24.c
+c:\github\c_programming\c_prac\c_prac\ch24.c(5): warning C4013: 'q24_2_1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\github\c_programming\c_prac\c_prac\ch24.c(12): warning C4013: 'mystory_gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   C_prac.vcxproj -> C:\Github\C_programming\C_prac\Debug\C_prac.exe

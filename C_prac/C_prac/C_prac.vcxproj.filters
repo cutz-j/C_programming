@@ -60,5 +60,11 @@
     <ClCompile Include="ch22.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch23.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch24.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
