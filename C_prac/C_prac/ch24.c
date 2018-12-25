@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int  main(void) {
+int  sub_24_c(void) {
 	//q24_1_1();
 	q24_2_1();
 	return 0;

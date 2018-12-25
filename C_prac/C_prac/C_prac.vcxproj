@@ -164,6 +164,7 @@
     <ClCompile Include="ch22.c" />
     <ClCompile Include="ch23.c" />
     <ClCompile Include="ch24.c" />
+    <ClCompile Include="ch25.c" />
     <ClCompile Include="ch6.c" />
     <ClCompile Include="ch8.c" />
     <ClCompile Include="ch9.c" />
