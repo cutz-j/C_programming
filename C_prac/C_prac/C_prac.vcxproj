@@ -165,6 +165,11 @@
     <ClCompile Include="ch23.c" />
     <ClCompile Include="ch24.c" />
     <ClCompile Include="ch25.c" />
+    <ClCompile Include="ch26.c" />
+    <ClCompile Include="ch27func.c" />
+    <ClCompile Include="ch27main.c" />
+    <ClCompile Include="ch27num.c" />
+    <ClCompile Include="ch28.c" />
     <ClCompile Include="ch6.c" />
     <ClCompile Include="ch8.c" />
     <ClCompile Include="ch9.c" />
